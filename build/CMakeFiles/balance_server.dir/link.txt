@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7  -g  -rdynamic CMakeFiles/balance_server.dir/conn.o CMakeFiles/balance_server.dir/fdwrapper.o CMakeFiles/balance_server.dir/log.o CMakeFiles/balance_server.dir/main.o CMakeFiles/balance_server.dir/mgr.o  -o balance_server 
